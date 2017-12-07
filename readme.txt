@@ -9,7 +9,11 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 
 aaaaaa
+<<<<<<< HEAD
 
 TestBranch3
 Test branch1
 Test branch2
+=======
+bbbb
+>>>>>>> secondBranck
